@@ -1,9 +1,17 @@
-ds-portfolio
-==============================
 
-Data Science Portfolio
+# Data Science, Machine Learning and AI portfolio
 
-Project Organization
+- [Data Science, Machine Learning and AI portfolio](#data-science-machine-learning-and-ai-portfolio)
+  - [Record Linkage](#record-linkage)
+    - [ML](#ml)
+  - [Directory Organisation](#directory-organisation)
+
+
+## Record Linkage
+### ML
+
+## Directory Organisation
+
 ------------
 
     ├── LICENSE
