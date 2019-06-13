@@ -2,13 +2,37 @@
 # Data Science, Machine Learning and AI portfolio
 
 - [Data Science, Machine Learning and AI portfolio](#data-science-machine-learning-and-ai-portfolio)
-  - [Record Linkage](#record-linkage)
-    - [ML](#ml)
+  - [Introduction](#introduction)
+  - [Full Stack Data Science](#full-stack-data-science)
+  - [Workflow (CRISP-DM)](#workflow-crisp-dm)
+    - [1. Business Understanding](#1-business-understanding)
+    - [2. Data Understanding](#2-data-understanding)
+    - [3. Data preparation](#3-data-preparation)
+    - [4. Modelling](#4-modelling)
+    - [5. Evaluation](#5-evaluation)
+    - [6. Deployment](#6-deployment)
   - [Directory Organisation](#directory-organisation)
 
+## Introduction
+As an aspiring Data Scientist and experienced Data Engineer, wanted to build personal Data Science and Machine Learning portfolio to share learnings, experiences and collaborate with people who have the same interest in this field. 
 
-## Record Linkage
-### ML
+## Full Stack Data Science
+Recently, came across many articles and discussion around Full Stack Data Science, what does it mean and how it works. It sounds quite mystery and challenging. However, it quite possible and easy for someone who has experiences and skills in both Data Engineering and Full Stack Developer roles. 
+
+In terms of Full Stack Data Science, it's basically meant to develop end-to-end data science product to solve business problems which sounds not really a new concept, but since more and more Data Science projects are moving into the cloud and many steps within data science project are becoming automated made this concept popular and essential. 
+
+On top of that, developing and deploying continuously (CI/CD), tuning and monitoring models are becoming essential skills for Data Scientist or Data Engineers who work in this field.
+
+## Workflow (CRISP-DM)
+Its believed that having well-organised workflow and best practices are helpful to meet a deadline in a Data Science project.
+
+### 1. Business Understanding
+### 2. Data Understanding
+### 3. Data preparation 
+### 4. Modelling
+### 5. Evaluation
+### 6. Deployment
+
 
 ## Directory Organisation
 
